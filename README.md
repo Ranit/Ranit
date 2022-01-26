@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ranit
-- 👀 I’m interested in ... networking
+- 👀 I’m interested in ... Web development
 - 🌱 I’m currently learning ...DevOps 
 - 💞️ I’m looking to collaborate on ... kreeti Technology
 - 📫 How to reach me ...mail me
